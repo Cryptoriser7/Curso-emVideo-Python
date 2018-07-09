@@ -12,3 +12,4 @@ print(x)
 print('Valor médio de {} é {:.1f} valores'.format(aluno, m))
 print(x)
 
+print('Alterado aqui para teste')
