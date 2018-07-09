@@ -30,6 +30,7 @@ print(nu, 'x  8  =', h)
 print(nu, 'x  9  =', i)
 print(nu, 'x 10  =', j)
 print(x)
+print('.' * 9)
 
 
 print('{} x {:2} = {}'.format(nu, 1, nu*1))
